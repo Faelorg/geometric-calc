@@ -5,7 +5,7 @@ namespace geomtric_calc
         public Form1()
         {
             InitializeComponent();
-            //Lets celedrate && suck some dick
+            
         }
     }
-}
+} 
